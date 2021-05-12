@@ -6,6 +6,7 @@ Have you ever changed your daily decisions just because of the weather? This wea
 <p align="center">
 	<img src='weather_app_demo.png' height='500' title='weatherapp'>
 </p>
+
 ## Tasks
 - [Nice to meet you, Flask](https://github.com/nguyenhuands99/flask-weather-app/blob/main/tasks/task_1.md)
 - [Beautiful template](https://github.com/nguyenhuands99/flask-weather-app/blob/main/tasks/task_2.md)
